@@ -43,7 +43,7 @@ body {
 .qrcode__text {
   margin: 0 10%;
 }
-.qrcode__text h3 {
+.qrcode__text h2 {
   font-size: 1.3rem;
   color: hsl(218deg, 44%, 22%);
 }
