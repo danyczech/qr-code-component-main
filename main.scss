@@ -20,8 +20,13 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  h1 {
+    color: $light-color;
+  }
 
   @media (min-width: 1000px) {
     width: 90vw;
